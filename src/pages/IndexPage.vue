@@ -13,7 +13,8 @@
       <img
         alt="Slika knjižnice"
         src="../assets/library.png"
-  style="width: 100%; max-width: 600px;">
+  style="width: 100%; max-width: 600px;"
+>
     </div>
   </q-page>
 </template>
